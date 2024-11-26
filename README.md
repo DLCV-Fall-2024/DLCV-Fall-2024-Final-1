@@ -13,7 +13,7 @@ You can add more arguments to the script if you need.
 # Usage
 To start working on this final project, you should clone this repository into your local machine by the following command:
 ```
-    git clone https://github.com/DLCV-Fall-2024/DLCV-Fall-2024-Final-2-<team_name>.git
+    git clone https://github.com/DLCV-Fall-2024/DLCV-Fall-2024-Final-1-<team_name>.git
 ```  
 Note that you should replace `<team_name>` with your own team name.
 

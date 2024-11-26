@@ -1,4 +1,4 @@
-# DLCV Final Project ( Multiple Concept Personalization )
+# DLCV Final Project
 
 # How to run your code?
 * TODO: Please provide the scripts for TAs to reproduce your results, including training and inference. For example, 

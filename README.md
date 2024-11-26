@@ -17,6 +17,18 @@ Note that you should replace `<team_name>` with your own team name.
 
 For more details, please click [this link](https://docs.google.com/presentation/d/1Vvhq1-QW2J5xuf6PNpZ9UshkfXhp3tmI02334JrfYZs/edit?usp=sharing) to view the slides of Final Project - .Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving **The introduction video for final project can be accessed in the slides.**
 
+# Evaluation
+```
+CODA-LM/
+└── few_shot/
+    ├── scene_few_shot/
+    │   ├── high.json
+    │   └── low.json
+    └── suggestion_few_shot/
+        ├── high.json
+        └── low.json 
+```
+
 # Submission Rules
 ### Deadline
 113/12/26 (Thur.) 23:59 (GMT+8)

@@ -6,3 +6,4 @@ val/
 *.zip
 *.json
 *.ipynb
+!few_shot/**/*.json

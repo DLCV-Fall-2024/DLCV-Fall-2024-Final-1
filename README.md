@@ -17,7 +17,7 @@ To start working on this final project, you should clone this repository into yo
 ```  
 Note that you should replace `<team_name>` with your own team name.
 
-For more details, please click [this link](https://docs.google.com/presentation/d/1Vvhq1-QW2J5xuf6PNpZ9UshkfXhp3tmI02334JrfYZs/edit?usp=sharing) to view the slides of Final Project - .Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving **The introduction video for final project can be accessed in the slides.**
+For more details, please click [this link](https://docs.google.com/presentation/d/1eeXx_dL0OgkDn9_lhXnimTHrE6OYvAiiVOBwo2CTVOQ/edit#slide=id.g3196368f9ef_0_288) to view the slides of Final Project - .Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving **The introduction video for final project can be accessed in the slides.**
 
 After cloning the repository from GitHub, the folder structure should be like this:
 ```
@@ -85,7 +85,7 @@ the value of key `conversations` shares the same format of LLaVA’s instruction
     * e.g.
 ![Submission Example](images/submission.png)
 * You can submit up to **5** times per day.
-* For more submission details, please refer to the [slides](https://docs.google.com/presentation/d/1Vvhq1-QW2J5xuf6PNpZ9UshkfXhp3tmI02334JrfYZs/edit#slide=id.g319afb73a02_0_0).
+* For more submission details, please refer to the [slides](https://docs.google.com/presentation/d/1eeXx_dL0OgkDn9_lhXnimTHrE6OYvAiiVOBwo2CTVOQ/edit#slide=id.g319b4042369_5_87).
 
 # Evaluation
 we provide two evaluation scripts to evaluate the performance of your model in **validation set**.
@@ -113,7 +113,7 @@ Total score: x.xx
 `Notes:`
 * Since the total number of validation set is over the limit of free Gemini API, we suggest testing with only a small subset of the validation set when using Gemini API evaluation.
 * The results from LLaMA-3 may differ from Gemini's evaluation. Please use LLaMA-3's results **only as a reference**.
-* The supplementary materials of using Gemini API and huggingface tokens can be found in [slides](https://docs.google.com/presentation/d/1Vvhq1-QW2J5xuf6PNpZ9UshkfXhp3tmI02334JrfYZs/edit#slide=id.g3195952c146_0_205).
+* The supplementary materials of using Gemini API and huggingface tokens can be found in [slides](https://docs.google.com/presentation/d/1eeXx_dL0OgkDn9_lhXnimTHrE6OYvAiiVOBwo2CTVOQ/edit#slide=id.g31b10de1f8f_7_155).
 
 ### Deadline
 113/12/26 (Thur.) 23:59 (GMT+8)
